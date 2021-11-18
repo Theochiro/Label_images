@@ -31,7 +31,11 @@ cd ~/labelImg
 python3 labelImg.py 
 ```
 Select the appropriate directory to save the image labels and change the labeling form from PASCAL/VOC to YOLO.
-Make sure to delete each image which does not contain any label using ```Shift+Ctrl+D```
+
+Make sure to delete each image which does not contain any label using ```Shift+Ctrl+D```.
+
 Draw a bounding box with the ```W``` shortcut.
+
 Move around images using ```A```  and ```D``` .
-Save using ```Ctrl+S``` 
+
+Save using ```Ctrl+S``` .
