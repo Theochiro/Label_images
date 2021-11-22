@@ -1,0 +1,5 @@
+classes= 4
+train  = /content/Label_images/train.txt
+valid  = /content/Label_images/valid.txt
+names = /content/Label_images/obj.names
+backup = backup/
